@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+}
+h1 {
+  color: #bcf513;
+  text-align: center;
+  text-shadow: 0px 0px 20px #fff;
+}
+canvas {
+  display: block;
+}
